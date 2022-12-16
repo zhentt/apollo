@@ -13,7 +13,7 @@
 	<properties>
 		<java.version>1.7</java.version>
 		<github.path>${project.artifactId}</github.path>
-		<spring-demo.version>4.3.6.RELEASE</spring-demo.version>
+		<spring-demo.version>5.2.20.RELEASE</spring-demo.version>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
